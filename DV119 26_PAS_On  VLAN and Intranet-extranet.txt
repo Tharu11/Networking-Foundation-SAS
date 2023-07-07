@@ -1,0 +1,29 @@
+﻿DV300_26_PAS on video related to VLAN and Intranet/ extranet 
+
+
+Q1. VLAN stands for ______________ LAN
+A1. VLAN stands for Virtual LAN.
+
+
+Q2. A VLAN is__________ that controls network traffic regardless of the physicality of the locations
+A2. A logical area network.
+
+
+Q3. How will we separate broadcast activity between the different departments in the same building? 
+A3. We can separate broadcast activity between the different departments in the same building by ports, VLAN switch or it can be created by using a MAC addresses of the computers.
+
+
+Q4. An Intranet is a ___________network that belongs to the organizations.
+A4. Private.
+
+
+Q5. No one outside the company on the intranet can access its data.  (True/False)
+A5. TRUE.
+
+
+Q6. The extranet is ______________ from outside the organization on a restricted basis
+A6. Different then intranet because the extranet is accessible
+
+
+Q7. Company A can access company B information only if Company B will grant access to company A using extranet. (True/False)
+A7. TRUE
